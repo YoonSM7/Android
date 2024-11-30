@@ -24,7 +24,7 @@ public class sub4_4 extends AppCompatActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.sub4_4);
-        setTitle("202208184 윤성민");
+        setTitle("윤성민입니다.");
 
         text1 = findViewById(R.id.Text1);
         switchAgree = findViewById(R.id.switchAgree);
